@@ -1,4 +1,5 @@
 ## About The Project
+Recommending songs with ML models using Spotipy & Spotify API.  
 
 <!-- GETTING STARTED -->
 ## Getting Started
