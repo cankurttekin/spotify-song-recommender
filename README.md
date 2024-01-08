@@ -1,11 +1,5 @@
 ## About The Project
 
-![alt text](http://url/to/img.png)
-
-
-### Built With
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
