@@ -9,7 +9,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1. Create App on Spotify Developer Dashboard
+1. Create an App on Spotify Developer Dashboard
 https://developer.spotify.com/dashboard
 What you need from there is:
   -Cliend ID
